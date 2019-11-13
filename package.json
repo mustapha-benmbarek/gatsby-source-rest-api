@@ -1,0 +1,28 @@
+{
+  "name": "gatsby-004-source-rest-api",
+  "private": true,
+  "description": "A simple webapp starter using filesystem as a source",
+  "version": "1.0.0",
+  "license": "Mustapha Benmbarek",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "gatsby": "^2.17.6",
+    "gatsby-source-filesystem": "^2.1.35",
+    "gatsby-source-rest-api": "^0.2.1",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}

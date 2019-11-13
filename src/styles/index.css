@@ -1,0 +1,35 @@
+/* @title: <<gatsby-004-source-filesystem>> program written in Gatsby-JS.
+ * @desc: Creates asimple web app fetching system files with graphql.
+ * @author: Mustapha Benmbarek.
+ * @Copyright © 2019 All rights reserved.
+ * @version: 1.0.
+ */
+
+h1 {
+  font-family: monospace;
+  font-weight: 700px;
+  font-size: 9em;
+  margin: 50px 50px 0px 50px;
+  color: #a100ff;
+}
+
+h2 {
+  font-family: monospace;
+  font-size: 3em;
+  font-weight: 700px;
+  margin: 0px 0px 0px 50px;
+  color: #000;
+}
+
+p {
+  font-family: monospace;
+  font-size: 1.65em;
+  font-weight: 700px;
+  margin: 100px 0px 0px 50px;
+  color: #333;
+}
+
+.bold {
+  font-weight: bold;
+  color: #000;
+}
